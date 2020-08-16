@@ -11,3 +11,5 @@ This repository contains code for various programs I wrote to get familiar with 
 * **[Program 3](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_3.CPP)**: Program to read the contents from the text file STORY.TXT, count and display the number of alphabets present in it
 
 * **[Program 4](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_4.CPP)**: Program to print the count of the word “is” as acharacter in a file STORY.TXT
+
+* **[Program 5](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_5.CPP)**: Program to print the count of the word “THE” as an independent word in a text file DIALOGUE.TXT
