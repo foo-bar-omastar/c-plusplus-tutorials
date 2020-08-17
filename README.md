@@ -13,3 +13,5 @@ This repository contains code for various programs I wrote to get familiar with 
 * **[Program 4](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_4.CPP)**: Program to print the count of the word “is” as acharacter in a file STORY.TXT
 
 * **[Program 5](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_5.CPP)**: Program to print the count of the word “THE” as an independent word in a text file DIALOGUE.TXT
+
+* **[Program 6](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_6.CPP)**: Program to count and display the number of lines not starting with the alphabet 'A' present in a text file "STORY.TXT". And to also count the number of blank present in this file.
