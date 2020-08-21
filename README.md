@@ -20,3 +20,5 @@ This repository contains code for various programs I wrote to get familiar with 
 * **[Program 7](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_7.CPP)**: Program to display the size of file "PARA.TXT" in bytes
 
 * **[Program 8](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_8.CPP)**: To find the output of the file "data.dat" if it contains the string "ABC" before execution of the program....where " " are not a part of the file
+
+* **[Program 9](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_9.CPP)**: To read the contents from the file GAME.DAT and creats a file BASKET.DAT where records of all playing basketball is stored
