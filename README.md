@@ -24,3 +24,9 @@ This repository contains code for various programs I wrote to get familiar with 
 * **[Program 9](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_9.CPP)**: To read the contents from the file GAME.DAT and creats a file BASKET.DAT where records of all playing basketball is stored
 
 * **[Program 10](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_10.CPP)**: Program To Update the file with a new “no. of people” after the execution of the program
+
+* **[Program 11](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_11.CPP)**: Program to read the contents of the file APPLY.DAT and display the details of Students
+
+
+
+
