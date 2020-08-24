@@ -29,4 +29,6 @@ This repository contains code for various programs I wrote to get familiar with 
 
 * **[Program 12](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_12.CPP)**: Program to search the file for the student details in the file on the basis of roll no. Supplied
 
+* **[Program 13](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_13.CPP)**: Read and write Functions on a binary file STOCK.DAT
 
+## ARRAYS:
