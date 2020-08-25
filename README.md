@@ -32,3 +32,5 @@ This repository contains code for various programs I wrote to get familiar with 
 * **[Program 13](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_13.CPP)**: Read and write Functions on a binary file STOCK.DAT
 
 ## ARRAYS:
+
+* **[Program 14](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_14.CPP)**: Traversal of an array and printing values after multiplying by 3
