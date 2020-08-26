@@ -34,3 +34,8 @@ This repository contains code for various programs I wrote to get familiar with 
 ## ARRAYS:
 
 * **[Program 14](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_14.CPP)**: Traversal of an array and printing values after multiplying by 3
+
+* **[Program 15](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_15.CPP)**: Linear Search in 1-Dimensional Array
+
+
+
