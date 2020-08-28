@@ -39,5 +39,7 @@ This repository contains code for various programs I wrote to get familiar with 
 
 * **[Program 16](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_16.CPP)**: Binary Search In 1-Dimensional Array
 
+* **[Program 17](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_17.CPP)**: Insertion In 1-Dimensional Array
+
 
 
