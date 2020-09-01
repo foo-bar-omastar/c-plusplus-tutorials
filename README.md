@@ -45,5 +45,7 @@ This repository contains code for various programs I wrote to get familiar with 
 
 * **[Program 19](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_19.CPP)**: Bubble Sort On 1-Dimensional Array
 
+* **[Program 20](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_20.CPP)**: Insertion Sort On 1-Dimensional Array
+
 
 
