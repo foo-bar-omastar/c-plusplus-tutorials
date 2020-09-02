@@ -49,5 +49,9 @@ This repository contains code for various programs I wrote to get familiar with 
 
 * **[Program 21](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_21.CPP)**: Merging in 1-Dimensional Array
 
+## LINKED LISTS, STACKS AND QUEUES:
+
+* **[Program 22](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_22.CPP)**: Stack implemented in form of Arrays
+
 
 
