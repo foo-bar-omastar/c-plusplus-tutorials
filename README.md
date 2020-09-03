@@ -53,5 +53,7 @@ This repository contains code for various programs I wrote to get familiar with 
 
 * **[Program 22](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_22.CPP)**: Stack implemented in form of Arrays
 
+* **[Program 23](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_23.CPP)**: Stack Implemented As Linked List
+
 
 
