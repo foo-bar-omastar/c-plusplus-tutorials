@@ -55,5 +55,7 @@ This repository contains code for various programs I wrote to get familiar with 
 
 * **[Program 23](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_23.CPP)**: Stack Implemented As Linked List
 
+* **[Program 24](https://github.com/foo-bar-omastar/c-plusplus-tutorials/blob/master/Program_24.CPP)**: Queue Implemented As An Array
+
 
 
